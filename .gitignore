@@ -1,0 +1,14 @@
+*.~dpr
+*.~pas
+*.~dfm
+*.~ddp
+*.dcu
+
+
+*.o
+*.out
+
+*.pyc
+
+*.luac
+
